@@ -1,3 +1,4 @@
 *.out
-scripts\_forms\*
+scripts/_forms/*
 *jpg
+dont/upload/*
