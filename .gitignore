@@ -1,5 +1,4 @@
 *.out
 scripts/_forms/*
 *jpg
-dont/upload/*
 conf.php
