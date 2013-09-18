@@ -2,3 +2,6 @@ dont/upload/*
 scripts/_forms/*
 conf.php
 jasmin.doc
+*.swo
+*.swp
+*~
